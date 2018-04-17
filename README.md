@@ -5,7 +5,7 @@ All credits to [offdev](https://github.com/offdev)!
 
 ### Installation
 ```bash
-$ pip install git+https://github.com/enodari/zwsp-steg-py
+$ pip install zwsp-steg-py
 ```
 
 ### Usage Example

@@ -4,6 +4,8 @@ setup(
     name='zwsp-steg-py',
     version=__import__('zwsp_steg').__version__,
     description='Zero-Width Space Steganography, encodes/decodes hidden messages as non printable/readable characters.',
+    long_description=open('README.md').read(),
+    long_description_content_type='text/markdown',
     author='Edoardo Nodari',
     author_email='info@nodari.me',
     url='https://github.com/enodari/zwsp-steg-py',
