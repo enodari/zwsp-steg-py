@@ -6,6 +6,7 @@ setup(
     description='Zero-Width Space Steganography, encodes/decodes hidden messages as non printable/readable characters.',
     author='Edoardo Nodari',
     author_email='info@nodari.me',
+    url='https://github.com/enodari/zwsp-steg-py',
     packages=find_packages(),
     include_package_data=True,
     license='Apache 2.0',
@@ -15,6 +16,7 @@ setup(
         'Intended Audience :: Developers',
         'License :: OSI Approved :: Apache Software License',
         'Natural Language :: English',
+        'Programming Language :: Python :: 3.4',
         'Programming Language :: Python :: 3.6',
     ],
 )
