@@ -35,4 +35,4 @@ zwsp_steg.encode('hidden message', zwsp_steg.MODE_FULL)
 - **MODE_FULL**: All MODE_ZWSP characters, Left-To-Right Mark (\u200e), Right-To-Left Mark (\u200f)
 
 ### License
-[Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)
+[MIT](https://opensource.org/licenses/MIT)
